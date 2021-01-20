@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InternshipHW2</string>
+    <string name="total_number_of_students">Total Number of Students</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="all_students">All Students</string>
+    <string name="add_student">Add Student</string>
+</resources>
